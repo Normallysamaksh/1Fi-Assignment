@@ -1,6 +1,6 @@
 # 1Fi Marketplace
 
-A responsive React + TypeScript implementation of the 1Fi Marketplace assignment. The supplied Android screenshots informed the purple palette, Shop banner, pill tabs, rounded cards and floating mobile navigation. The existing application source was not supplied, so this is a standalone web implementation designed for later integration.
+A responsive React + TypeScript implementation of the 1Fi Marketplace assignment. The purple palette, Shop banner, pill tabs, rounded cards and floating mobile navigation have been derived from existing ui. This is a standalone web implementation designed for later integration as only the marketplace section was asked to be designed.
 
 ## Run locally
 
