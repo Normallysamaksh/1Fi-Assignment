@@ -1,0 +1,330 @@
+{
+  "plans": [
+    {
+      "id": "emi-3",
+      "months": 3,
+      "interestPercent": 0,
+      "processingFee": 0
+    },
+    {
+      "id": "emi-6",
+      "months": 6,
+      "interestPercent": 0,
+      "processingFee": 0
+    },
+    {
+      "id": "emi-12",
+      "months": 12,
+      "interestPercent": 0,
+      "processingFee": 0,
+      "recommended": true
+    },
+    {
+      "id": "emi-24",
+      "months": 24,
+      "interestPercent": 0,
+      "processingFee": 0
+    }
+  ],
+  "products": [
+    {
+      "id": "iphone-16",
+      "brand": "Apple",
+      "name": "iPhone 16",
+      "category": "Smartphones",
+      "tagline": "A little more wow. A lot more possibility.",
+      "badge": "POPULAR PICK",
+      "image": "/products/iphone-16.jpg",
+      "imageSource": "https://www.trikart.com/kwt_en/apple-iphone-16-128gb-ultramarine.html",
+      "color": "Ultramarine",
+      "swatch": "#8a96d8",
+      "variants": [
+        {
+          "id": "128",
+          "label": "128 GB",
+          "price": 69900,
+          "mrp": 79900,
+          "available": true
+        },
+        {
+          "id": "256",
+          "label": "256 GB",
+          "price": 79900,
+          "mrp": 89900,
+          "available": true
+        },
+        {
+          "id": "512",
+          "label": "512 GB",
+          "price": 99900,
+          "mrp": 109900,
+          "available": false
+        }
+      ],
+      "specs": [
+        {
+          "label": "Display",
+          "value": "6.1-inch Super Retina XDR"
+        },
+        {
+          "label": "Chip",
+          "value": "Apple A18"
+        },
+        {
+          "label": "Camera",
+          "value": "48MP Fusion camera"
+        },
+        {
+          "label": "Connectivity",
+          "value": "5G · USB-C"
+        }
+      ],
+      "highlights": [
+        "Camera Control for quick access to your camera.",
+        "Action button for your everyday shortcuts.",
+        "Durable colour-infused glass and aluminium design."
+      ]
+    },
+    {
+      "id": "macbook-air",
+      "brand": "Apple",
+      "name": "MacBook Air M3",
+      "category": "Laptops",
+      "tagline": "Light to carry. Ready for anything.",
+      "badge": "GREAT VALUE",
+      "image": "/products/macbook-air.jpg",
+      "imageSource": "https://www.caretek.ca/product/1080705719",
+      "color": "Space Grey",
+      "swatch": "#73757b",
+      "variants": [
+        {
+          "id": "512",
+          "label": "16 GB / 512 GB",
+          "price": 104900,
+          "mrp": 134900,
+          "available": true
+        },
+        {
+          "id": "256",
+          "label": "16 GB / 256 GB",
+          "price": 94900,
+          "mrp": 114900,
+          "available": true
+        }
+      ],
+      "specs": [
+        {
+          "label": "Display",
+          "value": "13.6-inch Liquid Retina"
+        },
+        {
+          "label": "Chip",
+          "value": "Apple M3"
+        },
+        {
+          "label": "Memory",
+          "value": "16 GB unified memory"
+        },
+        {
+          "label": "Design",
+          "value": "Lightweight, fanless aluminium"
+        }
+      ],
+      "highlights": [
+        "A sharp Liquid Retina display for work and entertainment.",
+        "A quiet, fanless design for everyday portability.",
+        "MagSafe charging and two Thunderbolt / USB 4 ports."
+      ]
+    },
+    {
+      "id": "sony-xm5",
+      "brand": "Sony",
+      "name": "WH-1000XM5",
+      "category": "Audio",
+      "tagline": "Your world. Just a little quieter.",
+      "badge": "FAN FAVOURITE",
+      "image": "/products/sony-xm5.jpg",
+      "imageSource": "https://www.ctrs.com.ua/ru/naushniki/naushniki-sony-mdr-wh1000xm5-silver-714103.html",
+      "color": "Platinum Silver",
+      "swatch": "#c9c6be",
+      "variants": [
+        {
+          "id": "standard",
+          "label": "Standard",
+          "price": 24990,
+          "mrp": 34990,
+          "available": true
+        }
+      ],
+      "specs": [
+        {
+          "label": "Type",
+          "value": "Wireless over-ear"
+        },
+        {
+          "label": "Noise control",
+          "value": "Active noise cancellation"
+        },
+        {
+          "label": "Connectivity",
+          "value": "Bluetooth multipoint"
+        },
+        {
+          "label": "Charging",
+          "value": "USB-C"
+        }
+      ],
+      "highlights": [
+        "Adaptive noise cancellation for focused listening.",
+        "Lightweight design with soft-fit leather earcups.",
+        "Connect to two Bluetooth devices at the same time."
+      ]
+    },
+    {
+      "id": "apple-watch",
+      "brand": "Apple",
+      "name": "Watch Series 10",
+      "category": "Wearables",
+      "tagline": "A beautiful way to keep moving.",
+      "badge": "EVERYDAY ESSENTIAL",
+      "image": "/products/apple-watch.jpg",
+      "imageSource": "https://www.optus.com.au/mobile/smartwatches/apple/apple-watch-series-10",
+      "color": "Jet Black",
+      "swatch": "#272728",
+      "variants": [
+        {
+          "id": "46gps",
+          "label": "46 mm · GPS",
+          "price": 42900,
+          "mrp": 49900,
+          "available": true
+        },
+        {
+          "id": "46cell",
+          "label": "46 mm · Cellular",
+          "price": 52900,
+          "mrp": 59900,
+          "available": true
+        }
+      ],
+      "specs": [
+        {
+          "label": "Case",
+          "value": "46 mm aluminium"
+        },
+        {
+          "label": "Display",
+          "value": "Always-On Retina"
+        },
+        {
+          "label": "Chip",
+          "value": "S10 SiP"
+        },
+        {
+          "label": "Band",
+          "value": "Black Sport Band"
+        }
+      ],
+      "highlights": [
+        "Track your workouts and daily activity.",
+        "Stay connected with calls and notifications.",
+        "A wide-angle OLED display and fast charging."
+      ]
+    },
+    {
+      "id": "airpods-pro",
+      "brand": "Apple",
+      "name": "AirPods Pro 2",
+      "category": "Audio",
+      "tagline": "Small size. A whole new sound.",
+      "badge": "POPULAR PICK",
+      "image": "/products/airpods-pro.png",
+      "imageSource": "https://incredideals.co/products/apple-airpods-pro-2nd-generation-with-usb-c-charging-case",
+      "color": "White",
+      "swatch": "#f2f2f0",
+      "variants": [
+        {
+          "id": "usb-c",
+          "label": "USB-C case",
+          "price": 18900,
+          "mrp": 24900,
+          "available": true
+        }
+      ],
+      "specs": [
+        {
+          "label": "Type",
+          "value": "Wireless in-ear"
+        },
+        {
+          "label": "Chip",
+          "value": "Apple H2"
+        },
+        {
+          "label": "Noise control",
+          "value": "Active noise cancellation"
+        },
+        {
+          "label": "Case",
+          "value": "MagSafe with USB-C"
+        }
+      ],
+      "highlights": [
+        "Adaptive Audio that responds to your surroundings.",
+        "Personalised Spatial Audio with dynamic head tracking.",
+        "Four sizes of silicone tips for a comfortable fit."
+      ]
+    },
+    {
+      "id": "galaxy-s24",
+      "brand": "Samsung",
+      "name": "Galaxy S24",
+      "category": "Smartphones",
+      "tagline": "Make every day a little more epic.",
+      "badge": "GREAT VALUE",
+      "image": "/products/galaxy-s24.jpg",
+      "imageSource": "https://www.bestbuy.ca/en-ca/product/koodo-samsung-galaxy-s24-256gb-cobalt-violet-select-tab-plan/17650920",
+      "color": "Cobalt Violet",
+      "swatch": "#78718c",
+      "variants": [
+        {
+          "id": "256",
+          "label": "8 GB / 256 GB",
+          "price": 59999,
+          "mrp": 79999,
+          "available": true
+        },
+        {
+          "id": "512",
+          "label": "8 GB / 512 GB",
+          "price": 69999,
+          "mrp": 89999,
+          "available": true
+        }
+      ],
+      "specs": [
+        {
+          "label": "Display",
+          "value": "6.2-inch Dynamic AMOLED 2X"
+        },
+        {
+          "label": "Memory",
+          "value": "8 GB RAM"
+        },
+        {
+          "label": "Camera",
+          "value": "50MP wide-angle camera"
+        },
+        {
+          "label": "Connectivity",
+          "value": "5G · USB-C"
+        }
+      ],
+      "highlights": [
+        "A bright display with a smooth adaptive refresh rate.",
+        "Versatile photography with a triple-camera system.",
+        "A compact design with an aluminium frame."
+      ]
+    }
+  ]
+}
